@@ -7,7 +7,7 @@
   },
   "type": "module",
   "scripts": {
-    "build": "cd ./src/lib/example-rust-lib && wasm-pack build --target web",
+    "build-rust": "cd ./src/lib/example-rust-lib && wasm-pack build --target web",
     "lint": "eslint . --max-warnings 0"
   },
   "devDependencies": {

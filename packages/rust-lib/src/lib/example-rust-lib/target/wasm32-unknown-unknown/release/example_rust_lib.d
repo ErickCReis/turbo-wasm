@@ -1,1 +1,0 @@
-/Users/erickreis/Projetos/turbo-wasm/packages/rust-lib/src/lib/example-rust-lib/target/wasm32-unknown-unknown/release/example_rust_lib.wasm: /Users/erickreis/Projetos/turbo-wasm/packages/rust-lib/src/lib/example-rust-lib/src/lib.rs
